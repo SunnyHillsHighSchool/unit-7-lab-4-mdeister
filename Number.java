@@ -1,6 +1,6 @@
 //(c) A+ Computer Science
 //www.apluscompsci.com
-//Name -
+//Name - Myra Deister
 
 
 //write the Number class
@@ -9,11 +9,11 @@
 //to guide you
 
 //header for Number class
-
+public class Number
+{
 //private instance variable (must be an Integer)
-
+private Integer num;
 //constructor
-
 
 //getter method
 
